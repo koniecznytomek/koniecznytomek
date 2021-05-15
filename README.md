@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello y`all 👋
+
+My name is Tomek, I`m frontend developer working in-studio on projects and startups for small and big companies. I create clean, holistically simple and useful design. I’m interested in researching, prototyping, designing, and building practical, purpose-driven digital services. I’m a JAMstack fan. It’s a way of building websites and apps for better performance — lower scaling costs, providing higher security, and offering a better developer experience.
 
 <!--
 **koniecznytomek/koniecznytomek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
